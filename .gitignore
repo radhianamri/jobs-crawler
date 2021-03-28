@@ -133,3 +133,5 @@ logs/
 
 # selenium drivers
 driver/
+
+output.txt
